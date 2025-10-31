@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ErsteÜbung {
+module zweite.Übung {
 }
